@@ -1,14 +1,10 @@
 # Edge TPU Safe Bike
 An application of realtime object-detection running on an Edge TPU for making cycling in busy cities a little less terrifying.
 
-![image fo lasercut bike](images/bike.png)
+![image fo lasercut bike](images/bike.jpg)
 
 ## Parts
-- [Raspberry Pi 4](http://)
-- [Raspberry Pi Camera Module V2](http://)
-- [Neo Pixel LED Strip](http://)
-- [Coral Edge TPU USB Accelerator](http://)
-
-## Useful Resources
-- [to install the Edge TPU on Raspberry Pi 4](http://)
-- [to install the Neo Pixel LED Strip on Raspberry Pi](http://)
+- [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+- [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
+- [Neo Pixel LED Strip](https://www.adafruit.com/product/1506)
+- [Coral Edge TPU USB Accelerator](https://coral.withgoogle.com/products/accelerator/)
